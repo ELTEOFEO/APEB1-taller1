@@ -11,7 +11,7 @@ package com.mycompany.proyecto1;
 public class Proyecto1 {
 
     public static void main(String[] args) {
-      System.out.println("Ejemplo básico de Java Versionado a través de Git Manejado desde GitHub");
+      System.out.println("Ejemplo de Java Manejado desde GitHub Versionado a través de Git Hub creado por <ubicar su usuario de github>");
       
     }
 }
